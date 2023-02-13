@@ -37,7 +37,32 @@ a {
 /*Utility Classes*/
 .container {
     margin: auto;
-    max-width:2000px;
+    max-width:2600px;
     overflow: auto;
-    padding: 0 20px;
+    padding: 0 50px;
+}
+.large {
+    font-size: 20px;
+}
+.btn {
+    display:inline-block;
+    font-size: 15px;
+    padding: 15px 40px;
+}
+.btn-outline{
+    background: transparent;
+    border: 1px solid #fff;
+    color: #fff;
+    font-weight: 300px;
+
+}
+.btn-outline:hover{
+    background: #fff;
+    color: #000;
+}
+/*Sohwcase*/
+#showcase {
+    background: url("/Img/showcase.jpg");
+    height: 500px;
+
 }
