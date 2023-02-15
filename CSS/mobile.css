@@ -8,9 +8,7 @@
 #about h4 {
     text-align: center;
 }
-#about{ 
-    background: #fff;
-}
+
 .about-row{
   flex-wrap: wrap;  
 }
@@ -20,12 +18,8 @@
     padding-left: 0;
 }
 /*Contact*/
-
-
-/*Footer*/
-#mainfooter{
-    background: #d8d6d643;
-    text-align: center;
-    padding: 30px;
-
+#contact p {
+    font-size: 14px;
 }
+
+
