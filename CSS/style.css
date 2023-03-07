@@ -151,6 +151,32 @@ a {
 #mainfooter{
     background: #d8d6d643;
     text-align: center;
-    padding: 30px;
+    padding: 50px;
+    
 
+}
+/*form*/
+form{
+    background-color: white;
+    border-radius: 3px;
+    color: #000000;
+    font-size: 0.8em;
+    padding:  50px;
+    margin: 0 auto;
+    width: 400px;
+    
+}
+input, textarea{
+    border: 0;
+    outline: none;
+    width: 280px;
+}
+.field{
+    border: solid 1px #ccc;
+    padding: 10px;
+    
+}
+
+.center-content{
+    text-align: center;
 }
